@@ -2,3 +2,4 @@
 ### Urban Agriculture Programs and Registered Community Gardens Distribution in Philadelphia, PA
 
 <iframe src="philly_UA_gardens_dark.html" height="1200" width="120%"></iframe>
+view(map, options = list(grid.col = "red"))
